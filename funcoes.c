@@ -85,7 +85,7 @@
 
        void Sortear_Palavra(char *palavra) {
     // Defina aqui um array de palavras que você deseja usar no jogo
-    char *palavras[] = {"computador", "programacao", "jogos", "desenvolvimento", "algoritmo", "openai"};
+    char *palavras[] = {"computador", "programacao", "jogos", "desenvolvimento", "algoritmo", "consolidacao"};
 
     // Obtém o número de palavras no array
     int numPalavras = sizeof(palavras) / sizeof(palavras[0]);
